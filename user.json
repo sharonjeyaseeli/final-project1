@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "name": "sharon",
+        "password": 123456789,
+        "phone number": 8667010745,
+        "order history": {}
+    },
+    {
+        "id": 2,
+        "name": "shiny",
+        "password": 123456759,
+        "phone number": 866704565,
+        "order history": {
+            "04-27-22": [
+                "poori",
+                "poori",
+                "poori",
+                "poori"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "name": "caro",
+        "password": 123454569,
+        "age": 22,
+        "phone number": 948693273,
+        "order history": {}
+    },
+    {
+        "id": 4,
+        "name": "jeba",
+        "password": "1234567",
+        "age": 18,
+        "phone number": "73456897",
+        "order history": {}
+    },
+    {
+        "id": 5,
+        "name": "charlie",
+        "password": 123454569,
+        "email address": "sharonjeyaseeli27@gmail.com",
+        "phone number": 7449103273,
+        "Address": "anagha d20 visthara apartment madurai",
+        "order history": {}
+    }
+]
